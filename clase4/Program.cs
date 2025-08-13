@@ -13,9 +13,12 @@ do
     if (calificacion > 0 && calificacion <= 10)
     {
         Console.WriteLine("Gracias por su opinión");
+        Console.WriteLine("------------------------------------");
     }
     else
     {
         Console.WriteLine("El num debe ser del uno al diez");
+        Console.WriteLine("------------------------------------");
     }
 } while (calificacion != calificacion_parametro_centinela);
+
