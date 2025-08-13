@@ -10,4 +10,12 @@ do
     Console.Write("Su nota: ");
     calificacion = int.Parse(Console.ReadLine());
     Console.WriteLine("------------------------------------");
+    if (calificacion > 0 && calificacion <= 10)
+    {
+        Console.WriteLine("Gracias por su opinión");
+    }
+    else
+    {
+        Console.WriteLine("El num debe ser del uno al diez");
+    }
 } while (calificacion != calificacion_parametro_centinela);
