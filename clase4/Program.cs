@@ -2,6 +2,9 @@
 
 int calificacion = 0;
 int calificacion_parametro_centinela = -13;
+int suma_calificaciones = 0;
+int numero_calificaciones = 0;
+int promedio_calificaciones = 0;
 
 do
 {
@@ -14,11 +17,22 @@ do
     {
         Console.WriteLine("Gracias por su opinión");
         Console.WriteLine("------------------------------------");
+        numero_calificaciones++;
+        suma_calificaciones += calificacion;
+        promedio_calificaciones = suma_calificaciones / numero_calificaciones;
+        Console.WriteLine($"El promedio de calificaciones es: {promedio_calificaciones}");
+        Console.WriteLine("------------------------------------");
     }
     else
     {
-        Console.WriteLine("El num debe ser del uno al diez");
-        Console.WriteLine("------------------------------------");
+        if (calificacion == calificacion_parametro_centinela)
+        {
+            Console.WriteLine("Saliendo...");
+            Console.WriteLine("------------------------------------");
+        } else
+        {
+            Console.WriteLine("El num debe ser del uno al diez");
+            Console.WriteLine("------------------------------------");
+        }
     }
 } while (calificacion != calificacion_parametro_centinela);
-
