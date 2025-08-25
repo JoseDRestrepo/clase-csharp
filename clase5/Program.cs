@@ -31,12 +31,59 @@ Console.WriteLine("oop");
 // op3.numero2 = 30;
 // op3.imprimirSumar();
 
-//conversion de monedas
-Console.Write("Ingrese una cantidad de dinero (en cop): ");
-double pesos = double.Parse(Console.ReadLine());
+//conversion de monedas POO
+// Console.Write("Ingrese una cantidad de dinero (en cop): ");
+// double pesos = double.Parse(Console.ReadLine());
 
-conversionMonedas conversion = new conversionMonedas();
-conversion.COP = pesos;
-conversion.imprimirDolar();
-conversion.imprimirEuros();
-conversion.imprimirLibras();
+// conversionMonedas conversion = new conversionMonedas();
+// conversion.COP = pesos;
+// conversion.imprimirDolar();
+// conversion.imprimirEuros();
+// conversion.imprimirLibras();
+
+//cajero automatico POO
+// atm cajero = new atm();
+
+// Console.WriteLine("OPCIONES:");
+// Console.WriteLine("Consultar saldo (1):");
+// Console.WriteLine("Retirar dinero (2):");
+// Console.WriteLine("Salir (3):");
+// Console.Write("Seleccione su opción (por número): ");
+// int opcion = int.Parse(Console.ReadLine());
+// do{
+//     if (opcion == 1)
+//     {
+//         cajero.imprimirSaldo();
+//     }
+//     else if (opcion == 2)
+//     {
+//         cajero.retirar();
+//     }
+//     else if (opcion == 3)
+//     {
+//         cajero.salir();
+//         break;
+//     }
+//     else
+//     {
+//         Console.WriteLine("Opción no válida. Intente nuevamente.");
+//     }
+//     Console.WriteLine("----------------------------------");
+//     Console.WriteLine("OPCIONES:");
+//     Console.WriteLine("Consultar saldo (1):");
+//     Console.WriteLine("Retirar dinero (2):");
+//     Console.WriteLine("Salir (3):");
+//     Console.Write("Seleccione su opción (por número): ");
+//     opcion = int.Parse(Console.ReadLine());
+// } while (true);
+
+//calculo IMC POO
+// Console.Write("Ingrese su peso (en kg): ");
+// double peso = double.Parse(Console.ReadLine());
+// Console.Write("Ingrese su estatura (en metros): ");
+// double estatura = double.Parse(Console.ReadLine());
+
+// CalculoIMC imc = new CalculoIMC();
+// imc.peso = peso;
+// imc.estatura = estatura;
+// imc.imprimirIMC();
