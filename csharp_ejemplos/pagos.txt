@@ -1,0 +1,9 @@
+ FullTime: $4.200.000
+ Hourly: $4.800.000
+ Hourly: $9.250.000
+FullTime: $4.200.000
+Hourly: $4.800.000
+Hourly: $9.250.000
+FullTime: $4.200.000
+Hourly: $4.800.000
+Hourly: $9.250.000

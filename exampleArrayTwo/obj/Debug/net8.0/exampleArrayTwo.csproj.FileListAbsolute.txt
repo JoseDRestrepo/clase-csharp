@@ -1,0 +1,14 @@
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\bin\Debug\net8.0\exampleArrayTwo.exe
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\bin\Debug\net8.0\exampleArrayTwo.deps.json
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\bin\Debug\net8.0\exampleArrayTwo.runtimeconfig.json
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\bin\Debug\net8.0\exampleArrayTwo.dll
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\bin\Debug\net8.0\exampleArrayTwo.pdb
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\obj\Debug\net8.0\exampleArrayTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\obj\Debug\net8.0\exampleArrayTwo.AssemblyInfoInputs.cache
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\obj\Debug\net8.0\exampleArrayTwo.AssemblyInfo.cs
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\obj\Debug\net8.0\exampleArrayTwo.csproj.CoreCompileInputs.cache
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\obj\Debug\net8.0\exampleArrayTwo.dll
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\obj\Debug\net8.0\refint\exampleArrayTwo.dll
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\obj\Debug\net8.0\exampleArrayTwo.pdb
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\obj\Debug\net8.0\exampleArrayTwo.genruntimeconfig.cache
+C:\Users\Alf\Desktop\ficha_306\CLASE C#\clase7\exampleArrayTwo\obj\Debug\net8.0\ref\exampleArrayTwo.dll
