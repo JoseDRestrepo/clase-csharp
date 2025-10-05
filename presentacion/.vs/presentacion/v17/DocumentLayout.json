@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alf\\source\\repos\\presentacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|c:\\users\\alf\\source\\repos\\presentacion\\presentacion\\form3.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form3.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|c:\\users\\alf\\source\\repos\\presentacion\\presentacion\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|c:\\users\\alf\\source\\repos\\presentacion\\presentacion\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|c:\\users\\alf\\source\\repos\\presentacion\\presentacion\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|c:\\users\\alf\\source\\repos\\presentacion\\presentacion\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|c:\\users\\alf\\source\\repos\\presentacion\\presentacion\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|c:\\users\\alf\\source\\repos\\presentacion\\presentacion\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F96031-156C-4288-89D7-8B0875DE2DF5}|controlador\\controlador.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\controlador\\accesologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F96031-156C-4288-89D7-8B0875DE2DF5}|controlador\\controlador.csproj|solutionrelative:controlador\\accesologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B2DE28-EE82-4EE4-81B1-29DEBE437938}|modelo\\modelo.csproj|c:\\users\\alf\\source\\repos\\presentacion\\modelo\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B2DE28-EE82-4EE4-81B1-29DEBE437938}|modelo\\modelo.csproj|solutionrelative:modelo\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B2DE28-EE82-4EE4-81B1-29DEBE437938}|modelo\\modelo.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\operacionescrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B2DE28-EE82-4EE4-81B1-29DEBE437938}|modelo\\modelo.csproj|solutionrelative:modelo\\operacionescrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B2DE28-EE82-4EE4-81B1-29DEBE437938}|modelo\\modelo.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\tipovehicrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B2DE28-EE82-4EE4-81B1-29DEBE437938}|modelo\\modelo.csproj|solutionrelative:modelo\\tipovehicrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B2DE28-EE82-4EE4-81B1-29DEBE437938}|modelo\\modelo.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\tipoconcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B2DE28-EE82-4EE4-81B1-29DEBE437938}|modelo\\modelo.csproj|solutionrelative:modelo\\tipoconcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B2DE28-EE82-4EE4-81B1-29DEBE437938}|modelo\\modelo.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B2DE28-EE82-4EE4-81B1-29DEBE437938}|modelo\\modelo.csproj|solutionrelative:modelo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E82B9B0-8534-446B-821E-C1EEDF399F96}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form2.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form2.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form2.cs",
+              "RelativeToolTip": "presentacion\\Form2.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:35:02.539Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form3.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form3.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form3.cs",
+              "RelativeToolTip": "presentacion\\Form3.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswHgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T16:54:16.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form4.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form4.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form4.cs",
+              "RelativeToolTip": "presentacion\\Form4.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAEwGUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:19:34.631Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\FormMenu.cs",
+              "RelativeDocumentMoniker": "presentacion\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\FormMenu.cs",
+              "RelativeToolTip": "presentacion\\FormMenu.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:46:33.685Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form5.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form5.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form5.cs",
+              "RelativeToolTip": "presentacion\\Form5.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T20:13:27.571Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form2.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form2.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "presentacion\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:55:57.826Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form3.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form3.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "presentacion\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T16:45:50.375Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form4.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form4.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "presentacion\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:49:00.639Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.resx",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form3.resx",
+              "RelativeDocumentMoniker": "presentacion\\Form3.resx",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form3.resx",
+              "RelativeToolTip": "presentacion\\Form3.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-05T21:13:07.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form5.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form5.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form5.cs [Dise\u00F1o]",
+              "RelativeToolTip": "presentacion\\Form5.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T20:04:30.884Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form6.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form6.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form6.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form6.cs [Dise\u00F1o]",
+              "RelativeToolTip": "presentacion\\Form6.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T20:39:46.623Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\FormMenu.cs",
+              "RelativeDocumentMoniker": "presentacion\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\FormMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "presentacion\\FormMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:40:40.805Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:55:14Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form6.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form6.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form6.cs",
+              "RelativeToolTip": "presentacion\\Form6.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:10:23.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccesoLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\controlador\\AccesoLogica.cs",
+              "RelativeDocumentMoniker": "controlador\\AccesoLogica.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\controlador\\AccesoLogica.cs",
+              "RelativeToolTip": "controlador\\AccesoLogica.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAiwJcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:52:32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "modelo\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\AccesoDatos.cs",
+              "RelativeToolTip": "modelo\\AccesoDatos.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:55:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Program.cs",
+              "RelativeToolTip": "presentacion\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:18:34.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OperacionesCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\OperacionesCRUD.cs",
+              "RelativeDocumentMoniker": "modelo\\OperacionesCRUD.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\OperacionesCRUD.cs",
+              "RelativeToolTip": "modelo\\OperacionesCRUD.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAnwBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:56:27.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TipoConCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\TipoConCRUD.cs",
+              "RelativeDocumentMoniker": "modelo\\TipoConCRUD.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\TipoConCRUD.cs",
+              "RelativeToolTip": "modelo\\TipoConCRUD.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T01:53:08.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\Configuracion.cs",
+              "RelativeDocumentMoniker": "modelo\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\Configuracion.cs",
+              "RelativeToolTip": "modelo\\Configuracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:07:13.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TipoVehiCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\TipoVehiCRUD.cs",
+              "RelativeDocumentMoniker": "modelo\\TipoVehiCRUD.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\modelo\\TipoVehiCRUD.cs",
+              "RelativeToolTip": "modelo\\TipoVehiCRUD.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:42:49.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form1.Designer.cs",
+              "RelativeToolTip": "presentacion\\Form1.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA1wJwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:07:22.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form3.Designer.cs",
+              "RelativeToolTip": "presentacion\\Form3.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T17:12:57.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "presentacion\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\presentacion\\presentacion\\Form2.Designer.cs",
+              "RelativeToolTip": "presentacion\\Form2.Designer.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAowAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:49:06.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

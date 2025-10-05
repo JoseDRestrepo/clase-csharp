@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\tipoconductores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\tipoconductores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\tipovehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\tipovehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\controllers\\tipoconductorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:controllers\\tipoconductorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\controllers\\tipovehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:controllers\\tipovehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\tipoconductores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\tipoconductores\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\tipoconductores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\tipoconductores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\tipovehiculos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\tipovehiculos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\models\\tipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:models\\tipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\models\\tipoconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:models\\tipoconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\tipovehiculos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\tipovehiculos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\tipoconductores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\tipoconductores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\tipovehiculos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\tipovehiculos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\views\\tipoconductores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:views\\tipoconductores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|c:\\users\\alf\\source\\repos\\concesionarioweb\\data\\concesionariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E8117-439E-FACC-832C-6502CC5F8294}|ConcesionarioWeb.csproj|solutionrelative:data\\concesionariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T20:53:42.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoVehiculos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoVehiculos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoVehiculos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\TipoVehiculos\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T20:52:15.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoConductores\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoConductores\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoConductores\\Edit.cshtml",
+              "RelativeToolTip": "Views\\TipoConductores\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T20:52:12.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoVehiculos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoVehiculos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoVehiculos\\Details.cshtml",
+              "RelativeToolTip": "Views\\TipoVehiculos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T20:49:31.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T13:31:36.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T20:32:51.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:11:14.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T21:04:37.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T21:04:42.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoConductores\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoConductores\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoConductores\\Details.cshtml",
+              "RelativeToolTip": "Views\\TipoConductores\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T20:49:26.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoVehiculos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoVehiculos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoVehiculos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\TipoVehiculos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T20:41:08.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoConductores\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoConductores\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoConductores\\Delete.cshtml",
+              "RelativeToolTip": "Views\\TipoConductores\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T20:40:04.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T20:33:02.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoConductores\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoConductores\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoConductores\\Create.cshtml",
+              "RelativeToolTip": "Views\\TipoConductores\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T20:30:50.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoVehiculos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoVehiculos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoVehiculos\\Index.cshtml",
+              "RelativeToolTip": "Views\\TipoVehiculos\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T17:18:24.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoConductores\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoConductores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Views\\TipoConductores\\Index.cshtml",
+              "RelativeToolTip": "Views\\TipoConductores\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T20:20:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoConductoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Controllers\\TipoConductoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoConductoresController.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Controllers\\TipoConductoresController.cs",
+              "RelativeToolTip": "Controllers\\TipoConductoresController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAYwGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T20:02:59.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TipoConductor.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Models\\TipoConductor.cs",
+              "RelativeDocumentMoniker": "Models\\TipoConductor.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Models\\TipoConductor.cs",
+              "RelativeToolTip": "Models\\TipoConductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T19:40:54.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoVehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Controllers\\TipoVehiculosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoVehiculosController.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Controllers\\TipoVehiculosController.cs",
+              "RelativeToolTip": "Controllers\\TipoVehiculosController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAFQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:11:23.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TipoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Models\\TipoVehiculo.cs",
+              "RelativeDocumentMoniker": "Models\\TipoVehiculo.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Models\\TipoVehiculo.cs",
+              "RelativeToolTip": "Models\\TipoVehiculo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:13:33.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConcesionarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Data\\ConcesionarioContext.cs",
+              "RelativeDocumentMoniker": "Data\\ConcesionarioContext.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Data\\ConcesionarioContext.cs",
+              "RelativeToolTip": "Data\\ConcesionarioContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:13:28.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:33:37.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Alf\\source\\repos\\ConcesionarioWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T13:49:09.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
